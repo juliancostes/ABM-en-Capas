@@ -1,0 +1,48 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.exe
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaVista.exe.config
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaVista.exe
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaLogica.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaAccesoDatos.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaLogica.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.frmBuscarPersona.resources
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.frmPersonas.resources
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete

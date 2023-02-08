@@ -1,0 +1,18 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

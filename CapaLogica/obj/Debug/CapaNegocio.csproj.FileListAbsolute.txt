@@ -1,0 +1,27 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Edu\Desktop\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\bin\Debug\CapaAccesoDatos.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\RTECH\Desktop\GitHub\ABM en Capas\CapaLogica\obj\Debug\CapaLogica.pdb

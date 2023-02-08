@@ -1,0 +1,9 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaAccesoDatos.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\ABMCapasAccess\CapaLogica\obj\Debug\CapaLogica.pdb
